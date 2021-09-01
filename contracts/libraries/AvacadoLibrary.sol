@@ -20,7 +20,7 @@ library AvacadoLibrary {
                 hex'ff',
                 factory,
                 keccak256(abi.encodePacked(token0, token1)),
-                hex'c5d2460186f7233c927e7db2dcc703c0e500b653ca82273b7bfad8045d85a470' // init code hash
+                hex'fa5cf1e0360ec0c52f2ceac486f761a63a19e1f1f84a8325f38ed577eb1e11e7' // init code hash
             ))));
     }
 
